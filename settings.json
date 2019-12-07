@@ -49,5 +49,6 @@
     "window.newWindowDimensions": "inherit",
     "window.zoomLevel": 0,
     "editor.glyphMargin": true,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "workbench.iconTheme": "material-icon-theme"
 }
