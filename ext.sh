@@ -14,7 +14,6 @@ code --install-extension eamodio.gitlens
 code --install-extension EditorConfig.EditorConfig
 code --install-extension esbenp.prettier-vscode
 code --install-extension felixfbecker.php-debug
-code --install-extension jeremyrajan.webpack
 code --install-extension KnisterPeter.vscode-commitizen
 code --install-extension mikestead.dotenv
 code --install-extension ms-vscode.csharp

@@ -52,6 +52,5 @@
     "workbench.iconTheme": "material-icon-theme",
 
     "terminal.integrated.shell.windows": "C:\\cygwin64\\bin\\fish.exe",
-    "php.validate.executablePath": "C:\\cygwin64\\bin\\php.exe",
-
+    "php.validate.executablePath": "C:\\cygwin64\\bin\\php.exe"
 }
